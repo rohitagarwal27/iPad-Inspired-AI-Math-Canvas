@@ -1,5 +1,9 @@
-<a href="https://ipatd-inspired-ai-atanvas.onrender.com/" target="_blank" rel="noopener noreferrer">Visit IPATD Inspired AI Backend</a>
+# 🧮 IPAD-INSPIRED-AI-MATH CALCULATOR
+
+<a href="https://ipatd-inspired-ai-atanvas.onrender.com/" target="_blank" rel="noopener noreferrer">Visit IPATD Inspired AI Backend</a> <br>
+<h3>
 This project is a web-based calculator with an interactive feature that allows users to draw mathematical equations or problems on a canvas. The drawn content is captured and sent to the backend for analysis. The backend processes the drawing, interprets the math expressions, and returns the solution using Google's Gemini AI model.
+</h3>
 
 ---
 
