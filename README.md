@@ -32,7 +32,7 @@ This project is a web-based calculator with an interactive feature that allows u
 ---
 | Input (Hand-Drawn Problem) | Output (AI-Generated Solution) |
 | :---: | :---: |
-| ![Input](https://drive.google.com/file/d/1QrjTB8-u1FayrtJ3ZjqNTzgbMBACGxz_/view?usp=drive_link) | ![Output](https://drive.google.com/file/d/1GzSftoMmy4pqfyQbHGXzC5FuaL9zNu1v/view?usp=drive_link) |
+| ![Input](https://i.postimg.cc/sXnMjCqW/Screenshot-2025-10-08-233113.png) | ![Output](https://i.postimg.cc/Z5h5hq0z/Screenshot-2025-10-08-233208.png) |
 
 ## Folder Structure
 
